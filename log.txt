@@ -1,0 +1,49 @@
+* commit b48085252b8394f96d976f35e36aa53c1099cdc0 (HEAD -> main)
+| Author: pol39348-glitch <pol39348@gmail.com>
+| Date:   Fri Oct 9 22:24:16 2026 +0300
+| 
+|     feature-b new
+|   
+*   commit 1cdaeb59b0f7b8c82ce406ecd44bfedc2fbd73d7 (origin/main, origin/HEAD)
+|\  Merge: 8aeb7c4 fdd2cf9
+| | Author: pol39348-glitch <pol39348@gmail.com>
+| | Date:   Fri Oct 9 21:35:28 2026 +0300
+| | 
+| |     Merge branch 'feature-b'
+| | 
+| * commit fdd2cf92fe18512ba66ac58e83097dc6547b94fc
+| | Author: pol39348-glitch <pol39348@gmail.com>
+| | Date:   Fri Oct 9 21:10:02 2026 +0300
+| | 
+| |     коммит feature-b
+| | 
+* | commit 8aeb7c492b868381ff3e0480af73ef5de9bc003a
+| | Author: pol39348-glitch <pol39348@gmail.com>
+| | Date:   Fri Oct 9 21:22:30 2026 +0300
+| | 
+| |     commit
+| |   
+* |   commit 0a1ec7e97194daef591681ddfa111e9362b8178b
+|\ \  Merge: d52f591 8c1c7ef
+| |/  Author: pol39348-glitch <pol39348@gmail.com>
+|/|   Date:   Fri Oct 9 21:20:06 2026 +0300
+| |   
+| |       Merge branch 'feature-a'
+| | 
+| * commit 8c1c7efa35a60e2e651dfe96870af7e295c59b3c
+| | Author: pol39348-glitch <pol39348@gmail.com>
+| | Date:   Fri Oct 9 20:32:28 2026 +0300
+| | 
+| |     коммит feature-a
+| | 
+* | commit d52f5919afe3b5685c6dbc5ee2103f28d0e837f5
+|/  Author: pol39348-glitch <pol39348@gmail.com>
+|   Date:   Fri Oct 9 21:04:13 2026 +0300
+|   
+|       second commit
+| 
+* commit 6a62de3cfd573d439c5585300ebd592db5bcab81
+  Author: pol39348-glitch <pol39348@gmail.com>
+  Date:   Fri Oct 9 20:22:03 2026 +0300
+  
+      first commit
